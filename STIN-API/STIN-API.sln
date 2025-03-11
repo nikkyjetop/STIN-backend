@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STIN-API", "STIN-API\STIN-API.csproj", "{4EB4985B-3C99-4DDB-A6BD-EBA76D3FF70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB4985B-3C99-4DDB-A6BD-EBA76D3FF70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB4985B-3C99-4DDB-A6BD-EBA76D3FF70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB4985B-3C99-4DDB-A6BD-EBA76D3FF70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB4985B-3C99-4DDB-A6BD-EBA76D3FF70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37B134F-7278-4F1B-9CCC-41637F59C655}
+	EndGlobalSection
+EndGlobal
